@@ -1,2 +1,0 @@
-DATA -> Content (naložimo začasno podatke)
-Upload to Drive (naložimo trajno podatke)
